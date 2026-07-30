@@ -1,16 +1,15 @@
-## Hi there 👋
+## About me
+- Software Engineer at [Si ATM](https://siatm.eu), developing state-of-the-art Air Traffic Management solutions
+- Interested in low-level programming, systems software, and performance-critical applications
+- Master's degree in Computer Science
+- Bachelor's degree in Computer Engineering
 
-<!--
-**ryurt46/ryurt46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages I work with
+![Tech stack](https://skillicons.dev/icons?i=cpp,c,java,go,rust,py,bash,clojure,ts,,html&perline=10)
 
-Here are some ideas to get you started:
+## Tools and frameworks
+![Tech stack](https://skillicons.dev/icons?i=git,github,jenkins,vue,mysql,postgresql,mongodb,nodejs,ubuntu,linux,latex)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's connect
+- 📧 robin.yurt1@gmail.com
+- 💼 LinkedIn: [Robin Yurt](https://www.linkedin.com/in/robinyurt)
